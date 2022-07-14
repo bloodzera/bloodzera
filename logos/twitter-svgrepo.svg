@@ -43,3 +43,7 @@
 <g>
 </g>
 </svg>
+
+svg path{
+  fill:red
+}
