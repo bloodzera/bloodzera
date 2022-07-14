@@ -10,4 +10,6 @@ I'm Cybersecurity Student, currently studying<br>Rust and Hacking tools in Pytho
 <a href="https://instagram.com/helittosf" target="blank"><img align="center" src="https://raw.githubusercontent.com/bloodzera/bloodzera/blood/logos/instagram-svgrepo.svg" alt="helittosf" height="30" width="40" /></a>
 </p>
 
-<center><img src="https://github-readme-stats.vercel.app/api?username=bloodzera&show_icons=false&theme=dark&locale=en" alt="bloodzera" /></center>
+<div align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=bloodzera&show_icons=false&theme=dark&locale=en">
+</div>
