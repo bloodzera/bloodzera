@@ -1,7 +1,7 @@
 <h3 align="center">Hi, I'm Hélitto S. Ferreira.</h3>
 
 <h6 align="center">
-I'm Cybersecurity Student, currently studying<br>Rust and Hacking tools.
+I'm Cybersecurity Student, currently studying<br>Ruby and Hacking tools.
 </h6>
 
 <p align="center">
